@@ -1,7 +1,3 @@
-#Name = Mohd_Shakir
-#Roll_No = 08
-#Enrollment_No = A180478
-
 
 
 # Program to multiply two matrices using nested loops
