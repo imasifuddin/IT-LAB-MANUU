@@ -1,4 +1,7 @@
 
+# integer value.txt, even.txt and odd.txt are in same location in python file
+
+
 f=open("integer value.txt",'r')
 
 for i in f:
